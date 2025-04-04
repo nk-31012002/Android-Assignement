@@ -1,16 +1,29 @@
-# getlokalapp
+# 📱 Lokal Android Intern Assignment
 
-A new Flutter project.
+Lokal Android Intern Assignment. 
 
-## Getting Started
+## It is built with Flutter.
 
-This project is a starting point for a Flutter application.
+## ✅ Features
 
-A few resources to get you started if this is your first Flutter project:
+🔄 Bottom navigation with two tabs: **Jobs** and **Bookmarks**
+📃 Job listing screen with: Infinite scrolling && Job title, location, salary, and phone number.
+📌 Bookmark any job to save it
+🔍 Job detail screen to view full info
+💾 Bookmarked jobs are saved in a local database and work offline
+🔃 State management for loading, error, and empty data
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Tech Stack
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Flutter** – Main SDK for app development
+**Dart** – Programming language
+**HTTP** – API calls
+**Sqflite** – Local database for offline bookmarks
+**Provider** – State management
+**Flutter Widgets** – ListView, BottomNavigationBar, etc.
+
+## 🔗 API Endpoint: https://testapi.getlokalapp.com/common/jobs?page=1
+
+
+
+## End-----------------------------------------------------------------------------------------------------------------------------------------------------------------
