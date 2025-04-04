@@ -22,8 +22,14 @@ Lokal Android Intern Assignment.
 **Provider** – State management
 **Flutter Widgets** – ListView, BottomNavigationBar, etc.
 
-## 🔗 API Endpoint: https://testapi.getlokalapp.com/common/jobs?page=1
+## 🔗 API Endpoint: 
+https://testapi.getlokalapp.com/common/jobs?page=1
+## 🔗 Video reference: 
+https://drive.google.com/drive/folders/1OzLoQzs9LlDmXvwEOzrJwPOFas57wsf0?usp=sharing 
 
 
+
+
+###
 
 Thanks!
